@@ -1,9 +1,7 @@
 # ECG-categorization-with-DNN
 #### (Caution!)this file is for working on colab. if you use this code, please paste this on colab
-##### number of date : 87552
-##### number of columns : 187
-##### Used model : Sequentail
-##### number of categorization(output) : 5(0~4)
+##### 기간 : 2022.06
+##### Used : Python, Keras, tensorflow
 ##### Accuracy : 100%
 ##### 프로젝트를 진행한 이유:
 ##### 요즘 스마트 워치들이 점점 심장 박동 출력 기능도 지원하고 있다. 물론 병원에서 찍는 ECG만큼 정확하지 않지만, 헬스케어가 더이상 병원에서만 이루어지는 것이 아닌 우리 삶속에 녹아드는 시대의 흐름에 맞추어 이 프로젝트를 진행하였다.
